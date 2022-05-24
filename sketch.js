@@ -69,3 +69,4 @@ function createMoeda() {
   moeda.velocityY = 5;
   moeda.lifetime = 200;
 }
+ 
